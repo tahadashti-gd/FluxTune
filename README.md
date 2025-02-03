@@ -46,8 +46,8 @@ This Telegram bot is designed to recognize and process music files sent to it by
 #### **Steps**:
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/music-recognition-telegram-bot.git
-   cd music-recognition-telegram-bot
+   git clone https://github.com/tahadashti-gd/ّFluxTune.git
+   cd FluxTune
    ```
 
 2. Install dependencies via NuGet:
