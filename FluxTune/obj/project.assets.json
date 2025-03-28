@@ -538,19 +538,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\moham\\.nuget\\packages\\": {}
+    "C:\\Users\\TahaDashti\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#\\FluxTune\\FluxTune\\FluxTune.csproj",
+      "projectUniqueName": "E:\\C#\\FluxTune\\FluxTune\\FluxTune.csproj",
       "projectName": "FluxTune",
-      "projectPath": "D:\\C#\\FluxTune\\FluxTune\\FluxTune.csproj",
-      "packagesPath": "C:\\Users\\moham\\.nuget\\packages\\",
-      "outputPath": "D:\\C#\\FluxTune\\FluxTune\\obj\\",
+      "projectPath": "E:\\C#\\FluxTune\\FluxTune\\FluxTune.csproj",
+      "packagesPath": "C:\\Users\\TahaDashti\\.nuget\\packages\\",
+      "outputPath": "E:\\C#\\FluxTune\\FluxTune\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\moham\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\TahaDashti\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -575,7 +580,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net8.0": {
@@ -610,7 +616,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

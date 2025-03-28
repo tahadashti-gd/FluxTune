@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\C#\\FluxTune\\",
+  "WorkspaceRootPath": "D:\\C#\\FluxTune\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{06328941-0C72-4648-BDCE-49E158FE411E}|FluxTune\\FluxTune.csproj|e:\\c#\\fluxtune\\fluxtune\\maincore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{06328941-0C72-4648-BDCE-49E158FE411E}|FluxTune\\FluxTune.csproj|d:\\c#\\fluxtune\\fluxtune\\maincore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{06328941-0C72-4648-BDCE-49E158FE411E}|FluxTune\\FluxTune.csproj|solutionrelative:fluxtune\\maincore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06328941-0C72-4648-BDCE-49E158FE411E}|FluxTune\\FluxTune.csproj|e:\\c#\\fluxtune\\fluxtune\\musicrecognizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{06328941-0C72-4648-BDCE-49E158FE411E}|FluxTune\\FluxTune.csproj|d:\\c#\\fluxtune\\fluxtune\\musicrecognizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{06328941-0C72-4648-BDCE-49E158FE411E}|FluxTune\\FluxTune.csproj|solutionrelative:fluxtune\\musicrecognizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06328941-0C72-4648-BDCE-49E158FE411E}|FluxTune\\FluxTune.csproj|e:\\c#\\fluxtune\\fluxtune\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{06328941-0C72-4648-BDCE-49E158FE411E}|FluxTune\\FluxTune.csproj|d:\\c#\\fluxtune\\fluxtune\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{06328941-0C72-4648-BDCE-49E158FE411E}|FluxTune\\FluxTune.csproj|solutionrelative:fluxtune\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MusicRecognizer.cs",
-              "DocumentMoniker": "E:\\C#\\FluxTune\\FluxTune\\MusicRecognizer.cs",
+              "DocumentMoniker": "D:\\C#\\FluxTune\\FluxTune\\MusicRecognizer.cs",
               "RelativeDocumentMoniker": "FluxTune\\MusicRecognizer.cs",
-              "ToolTip": "E:\\C#\\FluxTune\\FluxTune\\MusicRecognizer.cs",
+              "ToolTip": "D:\\C#\\FluxTune\\FluxTune\\MusicRecognizer.cs",
               "RelativeToolTip": "FluxTune\\MusicRecognizer.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAEAAAAlAAAAAAAAAA==",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAGMAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-03T08:32:44.702Z",
               "EditorCaption": ""
@@ -41,13 +41,14 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\C#\\FluxTune\\FluxTune\\Program.cs",
+              "DocumentMoniker": "D:\\C#\\FluxTune\\FluxTune\\Program.cs",
               "RelativeDocumentMoniker": "FluxTune\\Program.cs",
-              "ToolTip": "E:\\C#\\FluxTune\\FluxTune\\Program.cs",
+              "ToolTip": "D:\\C#\\FluxTune\\FluxTune\\Program.cs",
               "RelativeToolTip": "FluxTune\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T17:28:58.528Z"
+              "WhenOpened": "2025-02-02T17:28:58.528Z",
+              "EditorCaption": ""
             }
           ]
         },
@@ -59,11 +60,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainCore.cs",
-              "DocumentMoniker": "E:\\C#\\FluxTune\\FluxTune\\MainCore.cs",
+              "DocumentMoniker": "D:\\C#\\FluxTune\\FluxTune\\MainCore.cs",
               "RelativeDocumentMoniker": "FluxTune\\MainCore.cs",
-              "ToolTip": "E:\\C#\\FluxTune\\FluxTune\\MainCore.cs",
+              "ToolTip": "D:\\C#\\FluxTune\\FluxTune\\MainCore.cs",
               "RelativeToolTip": "FluxTune\\MainCore.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAsAAAAAAAAAA==",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACYAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-02T17:30:51.503Z",
               "EditorCaption": ""
